@@ -18,7 +18,7 @@ import os
 import sqlite3
 from typing import Dict, List, Tuple
 
-DB_NAME = "myapp.db"
+DB_NAME = "notes.db"
 DB_USER = "kaviasqlite"  # Not used for SQLite, but kept for consistency
 DB_PASSWORD = "kaviadefaultpassword"  # Not used for SQLite, but kept for consistency
 DB_PORT = "5000"  # Not used for SQLite, but kept for consistency
